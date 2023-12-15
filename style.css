@@ -1,0 +1,84 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo
+{
+    width: 8%;
+    border-radius: 100px;
+    
+}
+#textbox
+{
+    width: 300px;
+}
+h1
+{
+    color:white;
+}
+
+body{
+    background-color: rgb(246, 255, 127);
+}
+
+img{
+   width:30%;
+}
+
+#result1{
+    padding: 2px;
+    margin: 2px;
+    box-shadow: inset;
+    border-color: black;
+}
+
+#result2{
+    padding: 2px;
+    margin: 2px;
+    box-shadow: inset;
+    border-color: black;
+    border-width: 3px;
+}
+
+#result3{
+    padding: 2px;
+    margin: 2px;
+    box-shadow: inset;
+    border-color: black;
+}
+
+#footer{
+    text-align: center;
+    margin: 20px;
+    padding: 6px;
+    font-family: cursive;
+    font-size: medium;
+    font-style: bold;
+}
+   
+#title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 7px;
+    margin: 7px;
+    font-size: xx-large;
+}
+
+#h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#camera{
+    width:40%;
+    height: 40%;
+    border-color: darkgoldenrod;
+}
+
+img:hover{
+    border-radius: 140px;
+}
